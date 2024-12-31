@@ -1,0 +1,10 @@
+openai
+openpyxl
+pandas
+streamlit
+python-dotenv
+pyPDF2
+pdfplumber
+transformers
+sentence-transformers
+faiss-cpu
